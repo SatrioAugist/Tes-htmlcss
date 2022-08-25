@@ -1,0 +1,23 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    width: 100wh;
+    height: 100vh;
+    background-color: aqua;
+}
+
+h1 {
+    background-color: yellow;
+    color: blue;
+    width: fit-content;
+    padding: 5px;
+    font-size: 60px;
+    margin: 10px;
+    margin-left: 50px;
+
+}

@@ -1,0 +1,35 @@
+body{
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url("background.jpg.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height: 100vh;
+  backdrop-filter: blur(3px);
+
+  
+
+}
+h1, h2, h3, p, a{
+  color: #fdfdfd;
+  text-align: center;
+  font-size: 60px;
+  
+}
+.social a{
+ 
+  margin: 20px;
+}
+img{
+  margin: 10px;
+  border: white solid;
+}
+.linkP{
+  text-decoration: none;
+}
+
+#cv{
+  border: 1px white solid;
+  padding: 10px;
+  font-size: medium;
+  text-align: center;
+}
